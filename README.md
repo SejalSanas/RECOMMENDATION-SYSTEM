@@ -32,3 +32,14 @@ Education & E-Learning - Personalized course recommendations on platforms like C
 Healthcare - Recommending health-related products or personalized treatments.
 
 #OUTPUT-
+Pivot the data to create a User-Item matrix
+![Image](https://github.com/user-attachments/assets/8bb11a06-ac7a-4e6e-9d14-237c2bb2ce5
+
+Calculate cosine similarity between users
+![Image](https://github.com/user-attachments/assets/783262dc-d3cc-4835-9446-5a3d76e0a4c0)
+
+ Predict ratings
+![Image](https://github.com/user-attachments/assets/ff4d5e1b-0864-4b5d-91fc-974947e0e8d3)
+
+Get top-2 recommendations for each user
+![Image](https://github.com/user-attachments/assets/b0ac0ee5-3724-456e-b15d-2aea8645eb4d)
